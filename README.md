@@ -4,9 +4,9 @@
   * 姓名：**張育瑞**  
   * 系級：**科技系碩士班三年級**
 # 課程筆記區
- Week1
- 1.  [Markdownm語法說明](https://markdown.tw/)
- Week2
+## Week1
+ 1.  [Markdownm語法說明](https://markdown.tw/)  
+## Week2
  1.  [Pythonset用法](https://shengyu7697.github.io/python-set/)
  2.  變數  
     int   整數  罰款金額  
