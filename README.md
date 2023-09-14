@@ -4,7 +4,16 @@
   * 姓名：**張育瑞**  
   * 系級：**科技系碩士班三年級**
 # 課程筆記區
+ Week1
  1.  [Markdownm語法說明](https://markdown.tw/)
- 2.  [Pythonset用法](https://shengyu7697.github.io/python-set/)
+ Week2
+ 1.  [Pythonset用法](https://shengyu7697.github.io/python-set/)
+ 2.  變數  
+    int   整數  罰款金額  
+    float 浮點數 判賠比例  
+    str   字串   法律條文  
+    bool  布林值  True&False(成立&不成立)  
+
 # 作業連結區
+  1.  [Markdownm語法說明]
 # 專題連結區
