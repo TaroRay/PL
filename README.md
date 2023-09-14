@@ -13,7 +13,6 @@
     float 浮點數 判賠比例  
     str   字串   法律條文  
     bool  布林值  True&False(成立&不成立)  
-
 # 作業連結區
-  1.[Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
+  1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
 # 專題連結區
