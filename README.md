@@ -19,4 +19,5 @@
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
 # 作業連結區
   1.  [H.W1](https://colab.research.google.com/drive/1v8OO1qbb4BbCyVENj4zvrMgDNiUxL7oV?usp=sharing)
+  2.  [H.W2](https://colab.research.google.com/drive/19N_eq03Xzs1HEQVicjYJovKW5PyDbcRU#scrollTo=YNBineqI676y)
 # 專題連結區
