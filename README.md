@@ -19,5 +19,5 @@
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
 # 作業連結區
   1.  [H.W1](https://colab.research.google.com/drive/1v8OO1qbb4BbCyVENj4zvrMgDNiUxL7oV?usp=sharing)
-  2.  [H.W2](https://colab.research.google.com/drive/13P9YJGc6uLc0DCJ_KKSgPMTvmW56A0Fz?usp=sharing)
+  2.  [H.W2](https://github.com/TaroRay/PL/blob/main/20231007_H_W2%20.ipynb)
 # 專題連結區
