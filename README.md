@@ -15,7 +15,7 @@
     str   字串   法律條文  
     bool  布林值  True&False(成立&不成立)
 ## Week5
- 1.  [資料正則化]([https://markdown.tw/](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI))  
+ 1.  [資料正則化](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)  
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
