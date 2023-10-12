@@ -17,7 +17,8 @@
 ## Week5
  1.  [資料正則化規則教學](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
  2.  [資料正則化線上練習](https://regexr.com/)
- 3.  資料正則化適用於有規則可循的資料，才比較利於進行提取。
+ 3.  資料正則化'(regular expression)'適用於有規則可循的資料，才比較利於進行提取。
+ 4.  內碼表應用於正則化中非英語系之文字
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
