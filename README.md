@@ -14,12 +14,14 @@
     float 浮點數 判賠比例  
     str   字串   法律條文  
     bool  布林值  True&False(成立&不成立)
-## Week5
+## Week6
  1.  [資料正則化規則教學](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
  2.  [資料正則化線上練習](https://regexr.com/)
  3.  資料正則化regular expression適用於有規則可循的資料，才比較利於進行提取。
  4.  內碼表應用於正則化中非英語系之文字
  5.  線上練習內容轉入python的方法：在 text 放文本，pattern後加r。
+## Week7 網路爬蟲
+  1.[網路爬蟲範例](https://blog.jiatool.com/series/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BE%8B/page/2/)
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
