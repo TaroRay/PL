@@ -22,10 +22,13 @@
  5.  線上練習內容轉入python的方法：在 text 放文本，pattern後加r。
 ## Week7 網路爬蟲
   1.  [網路爬蟲範例](https://blog.jiatool.com/series/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BE%8B/page/2/)
+  2.  Beautifulsoup爬蟲套件
+  3.  
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
 # 作業連結區
   1.  [H.W1](https://colab.research.google.com/drive/1v8OO1qbb4BbCyVENj4zvrMgDNiUxL7oV?usp=sharing)
   2.  [H.W2](https://github.com/TaroRay/PL/blob/main/20231007_H_W2%20.ipynb)
+  3.  作業三 爬蟲後正則化
 # 專題連結區
