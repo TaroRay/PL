@@ -32,6 +32,16 @@
   5. 由於jieba套件所需格式為str，可利用type()檢查文本資料結構形式，並詢問chatGPT如何將Panda轉成str形式。
   6. 清洗不需要分詞的方式：chatGPT：想要對文本中的標點符號做清洗，在Python該怎做？建議先進行清洗再做jieba，(中文標點符號全半形也需注意)，所以需要跟chatGPT說明：chatGPT建議用正則化。
   7. jieba & counter & wordcloud資料結構相同
+  8. 程式排版也可能造成問題須留意
+  9. 文字雲在colab可能會有中文字型支援不足之問題，可詢問chatGPT尋求字型下載之方法。
+  10. [WordCloud](https://github.com/amueller/word_cloud)，WordCloud 是一個用於生成文字雲的 Python 庫，它可以將一段文本轉換成文字雲圖片，並且支持多種字體、背景顏色、形狀等設置。
+[TextBlob](tps://github.com/sloria/TextBlob)TextBlob 是一個用於自然語言處理的 Python 庫，它提供了多種文本處理工具，包括分詞、情感分析、詞性標註等功能。
+[Voyant Tools](https://github.com/sgsinclair/VoyantServer)Voyant Tools 是一個基於 Web 的文字分析工具，它提供了多種可視化工具，包括文字雲、關鍵詞提取、文本聚類等。
+[Textify](https://github.com/mrdbourke/textify)Textify 是一個用於生成 ASCII 藝術文字的 Python 庫，它可以將一段文本轉換成 ASCII 藝術文字，並且支持多種字體和顏色。
+[Termgraph](https://github.com/mkaz/termgraph)Termgraph 是一個用於在終端中繪製簡單圖表的 Python 庫，它支持繪製線圖、柱狀圖、堆積圖等多種圖表類型。
+[Glances](https://github.com/nicolargo/glances)Glances 是一個基於終端的系統監控工具，它可以顯示系統的 CPU、內存、網絡等資源使用情況，並且支持繪製簡單的圖表。
+[ConsolePlot](https://github.com/pascaln/ConsolePlot)，ConsolePlot 是一個用於在終端中繪製線圖的 Python 庫，它支持繪製多種線圖類型，包括折線圖、散點圖、條形圖等。
+
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
