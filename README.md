@@ -28,6 +28,8 @@
   1. 使用套件需要確定輸入輸出之格式
   2. [APIs](https://www.youtube.com/watch?time_continue=1&v=GZvSYJDk-us&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo) Application Programming Interface
   3. 邏輯思維：大任務解構成小任務
+  4. 從開放式文本進行分詞表製作並完成文字雲：收錄文本在匯入網路試算表，chapGPT可寫"我現在有一段中文文本希望透過python完成分詞，接著讀取分詞頻率該如何進行"
+  5. 由於jieba套件所需格式為str，可利用type()檢查文本資料結構形式，並詢問chatGPT如何將Panda轉成str形式。
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
