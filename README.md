@@ -41,6 +41,7 @@
 [Termgraph](https://github.com/mkaz/termgraph)Termgraph 是一個用於在終端中繪製簡單圖表的 Python 庫，它支持繪製線圖、柱狀圖、堆積圖等多種圖表類型。
 [Glances](https://github.com/nicolargo/glances)Glances 是一個基於終端的系統監控工具，它可以顯示系統的 CPU、內存、網絡等資源使用情況，並且支持繪製簡單的圖表。
 [ConsolePlot](https://github.com/pascaln/ConsolePlot)，ConsolePlot 是一個用於在終端中繪製線圖的 Python 庫，它支持繪製多種線圖類型，包括折線圖、散點圖、條形圖等。
+  11. ner套件可以過濾國家名稱
 
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
