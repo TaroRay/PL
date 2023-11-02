@@ -30,6 +30,8 @@
   3. 邏輯思維：大任務解構成小任務
   4. 從開放式文本進行分詞表製作並完成文字雲：收錄文本在匯入網路試算表，chapGPT可寫"我現在有一段中文文本希望透過python完成分詞，接著讀取分詞頻率該如何進行"
   5. 由於jieba套件所需格式為str，可利用type()檢查文本資料結構形式，並詢問chatGPT如何將Panda轉成str形式。
+  6. 清洗不需要分詞的方式：chatGPT：想要對文本中的標點符號做清洗，在Python該怎做？建議先進行清洗再做jieba，(中文標點符號全半形也需注意)，所以需要跟chatGPT說明：chatGPT建議用正則化。
+  7. jieba & counter & wordcloud資料結構相同
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
