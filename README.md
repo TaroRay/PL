@@ -23,7 +23,11 @@
 ## Week7 網路爬蟲
   1.  [網路爬蟲範例](https://blog.jiatool.com/series/python%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2%E5%AF%A6%E4%BE%8B/page/2/)  
   2.  Beautifulsoup爬蟲套件
-  3.  
+
+## Week9 
+  1. 使用套件需要確定輸入輸出之格式
+  2. [APIs](https://www.youtube.com/watch?time_continue=1&v=GZvSYJDk-us&embeds_referring_euri=https%3A%2F%2Fwww.bing.com%2F&embeds_referring_origin=https%3A%2F%2Fwww.bing.com&source_ve_path=Mjg2NjY&feature=emb_logo) Application Programming Interface
+  3. 邏輯思維：大任務解構成小任務
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
