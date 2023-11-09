@@ -44,7 +44,7 @@
   11. ner套件可以過濾國家名稱
 ## Week10
   1.LDA：資料分群  
-  2.
+  2.[LDA範例程式](https://nbviewer.org/github/pecu/LAT/blob/main/HW3/TextMining.ipynb#topic=0&lambda=0.67&term=)
 # 課堂練習區
   1.  [Task1](https://github.com/TaroRay/PL/blob/main/Task1.ipynb)  
   2.  [Task3](https://colab.research.google.com/drive/17P_lXYfHzF-Qx0VSmAq7AlDgA90OG2G1#scrollTo=i3GNb_M5ko47)
